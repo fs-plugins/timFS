@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*-
-#
-# This plugin is NOT free software.
+# from shadowrider
 #
 #
 from . import _
