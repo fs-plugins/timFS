@@ -724,7 +724,7 @@ class timFS(Screen, HelpableScreen):
 		txt="timFS - the individual menu - Version "+ str(version)+"\n"
 		txt+="inspired by OpenPanel, MultiQuickbutton and NaviBar\n"
 		txt+="coded by shadowrider\n"
-		txt+="www.fs-plugins.de"
+		txt+="github"
                 self.session.open(MessageBox,txt,type = MessageBox.TYPE_INFO,)
 
 	def exit(self):
