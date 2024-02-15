@@ -1,0 +1,123 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: filesearchFS\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: shadowrider <shadowrider@unknown.de>\n"
+"Language-Team: shadowrider <shadowrider@unknown.de>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-SourceCharset: iso-8859-1\n"
+
+#  msgid ""
+#msgstr ""
+
+msgid "The individual menu:"
+msgstr ""
+
+msgid "main group"
+msgstr ""
+
+msgid "tools"
+msgstr ""
+
+msgid "List sort by, with or without a number:"
+msgstr ""
+
+msgid "Show in main menu (reboot required!):"
+msgstr ""
+
+msgid "Text Size:"
+msgstr ""
+
+msgid "Automatically close:"
+msgstr ""
+
+msgid "Save and close"
+msgstr ""
+
+msgid "Change/Hide Plugin"
+msgstr ""
+
+msgid "Delete group"
+msgstr ""
+
+msgid "Change Description"
+msgstr ""
+
+msgid "Change group"
+msgstr ""
+
+msgid "Add group"
+msgstr ""
+
+msgid "Next group"
+msgstr ""
+
+msgid "Previous group"
+msgstr ""
+
+msgid "Sort"
+msgstr ""
+
+msgid "Groups"
+msgstr ""
+
+msgid "Group"
+msgstr ""
+
+msgid "Name:"
+msgstr "" 
+
+msgid "Enter group name:"
+msgstr ""
+
+msgid "Enter Plugin description:"
+msgstr ""
+
+msgid "Description"
+msgstr ""
+
+msgid "abc"
+msgstr ""
+
+msgid "hits"
+msgstr ""
+
+msgid "own"
+msgstr ""
+
+msgid "abc,numbers"
+msgstr ""
+
+msgid "hits,numbers"
+msgstr ""
+
+msgid "own,numbers"
+msgstr ""
+
+msgid "Number of lines:"
+msgstr ""
+
+msgid "Scroll-Speed:"
+msgstr ""
+
+msgid "Display-Len:"
+msgstr ""
+
+msgid "Distance from the left:"
+msgstr ""
+
+msgid "Line"
+msgstr ""
+
+msgid "Distance from the top"
+msgstr ""
+
+msgid "height"
+msgstr ""
+
+msgid "Font-Size"
+msgstr ""
