@@ -12,7 +12,6 @@ def localeInit():
 def _(txt):
 	t = gettext.dgettext("timFS", txt)
 	if t == txt:
-		#print "[webradioFS] fallback to default translation for", txt
 		t = gettext.gettext(txt)
 	return t
 
