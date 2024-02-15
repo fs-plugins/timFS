@@ -5,17 +5,11 @@ from . import _
 from Components.ActionMap import ActionMap,HelpableActionMap,NumberActionMap
 from Components.Label import Label
 from Components.MenuList import MenuList
-from Components.MultiContent import MultiContentEntryText, MultiContentEntryPixmap, MultiContentEntryPixmapAlphaTest
+from Components.MultiContent import MultiContentEntryText, MultiContentEntryPixmapAlphaTest
 from Components.config import config
-from Components.GUIComponent import GUIComponent
-from enigma import ePicLoad
-from Components.Pixmap import Pixmap, MovingPixmap
-from Tools.LoadPixmap import LoadPixmap
-from Tools import Notifications
-from Components.AVSwitch import AVSwitch
+from Components.Pixmap import Pixmap
 from Screens.InfoBar import MoviePlayer
 from Components.PluginComponent import plugins
-from Components.PluginList import PluginEntryComponent, PluginList
 from Components.Button import Button
 from Screens.Screen import Screen
 from Plugins.Plugin import PluginDescriptor
@@ -32,8 +26,8 @@ from Screens.Screen import Screen
 from Screens.MessageBox import MessageBox
 from Screens.InfoBar import InfoBar
 from Screens.InfoBarGenerics import InfoBarChannelSelection
-from enigma import eListboxPythonMultiContent, eListbox, gFont, RT_VALIGN_CENTER, RT_HALIGN_LEFT, RT_HALIGN_RIGHT, RT_HALIGN_CENTER, loadPNG, RT_WRAP, eServiceReference, getDesktop, loadJPG
-from Tools.Directories import pathExists, fileExists, SCOPE_SKIN_IMAGE, resolveFilename
+from enigma import eListboxPythonMultiContent, gFont, RT_HALIGN_LEFT, loadPNG
+from Tools.Directories import fileExists
 import os, re
 
 conf_path="/etc/enigma2/timFSconf"
