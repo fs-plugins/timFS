@@ -18,3 +18,5 @@ hatte bisher mit OpenPanel immer etwas zusammengebastelt und gehofft es käme ma
 also selbst gebastelt, dabei überall etwas abgeschaut und eigene Erfahrungen eingebracht
 
 evtl. kanns ja dieser oder jene gebrauchen
+![timFS](https://github.com/fs-plugins/timFS/assets/24637469/0cb159cd-7b98-4aba-8f4a-8dd4cdf8f289)
+
