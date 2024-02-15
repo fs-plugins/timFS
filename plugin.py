@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
+# timFS
 # by shadowrider
-# This plugin is NOT free software.
-#
 #
 from . import _
 from Components.ActionMap import ActionMap,HelpableActionMap,NumberActionMap
