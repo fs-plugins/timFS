@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-#
+# by shadowrider
 # This plugin is NOT free software.
 #
 #
