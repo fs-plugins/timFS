@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 # by shadowrider
 # original: https://github.com/fs-plugins/timFS
 #
