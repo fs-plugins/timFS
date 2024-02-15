@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
-# timFS
 # by shadowrider
+# original: https://github.com/fs-plugins/timFS
 #
 from . import _
 from Components.ActionMap import ActionMap,HelpableActionMap,NumberActionMap
