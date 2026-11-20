@@ -1,3 +1,8 @@
+![Status: EOL](https://shields.io)
+
+> [!CAUTION]
+> **End of Life (EOL):** Diese Software hat das Ende ihres Lebenszyklus erreicht. Es gibt keine Weiterentwicklung und keine Sicherheitsupdates mehr.
+
 timFS , das individuelle Menü
 (python2 und python3)
 
